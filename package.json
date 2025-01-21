@@ -1,6 +1,6 @@
 {
-  "name": "@Show-Chat/showchat-toggle",
-  "version": "1.0",
+  "name": "showchat-toggle",
+  "version": "1.0.2",
   "description": "A simple npm package for ShowChat Toggle.",
   "main": "index.js",
   "scripts": {
@@ -10,18 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/Show-Chat/showchat-toggle.git"
   },
+  "keywords": [
+    "toggle",
+    "showchat",
+    "fullscreen",
+    "javascript"
+  ],
   "author": "Show-Chat",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Show-Chat/showchat-toggle/issues"
   },
-  "homepage": "https://github.com/Show-Chat/showchat-toggle#readme",
-  "keywords": [
-    "javascript",
-    "npm",
-    "package",
-    "toggle",
-    "showchat",
-    "fullscreen"
-  ]
+  "homepage": "https://github.com/Show-Chat/showchat-toggle#readme"
 }
